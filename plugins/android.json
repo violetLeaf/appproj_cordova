@@ -1,0 +1,43 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-screen-orientation": {
+      "PACKAGE_NAME": "org.apache.cordova.myApp"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "org.apache.cordova.myApp"
+    },
+    "com.rjfun.cordova.httpd": {
+      "PACKAGE_NAME": "org.apache.cordova.myApp"
+    },
+    "cordova-plugin-file-downloader": {
+      "PACKAGE_NAME": "org.apache.cordova.myApp"
+    }
+  },
+  "dependent_plugins": {
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "org.apache.cordova.myApp"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "org.apache.cordova.myApp"
+    },
+    "cordova-plugin-file-transfer": {
+      "PACKAGE_NAME": "org.apache.cordova.myApp"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "org.apache.cordova.myApp"
+    },
+    "cordova-plugin-zip": {
+      "PACKAGE_NAME": "org.apache.cordova.myApp"
+    },
+    "cordova-plugin-file-md5": {
+      "PACKAGE_NAME": "org.apache.cordova.myApp"
+    }
+  }
+}

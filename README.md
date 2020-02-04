@@ -1,1 +1,0 @@
-appproj_cordova
